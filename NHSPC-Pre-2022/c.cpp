@@ -1,6 +1,6 @@
 /*
  * @Author : Debdip Das Dipto
- * In this code my total logic is wrong, but somehow I got 4 points.. :3 
+ * In this code my total logic is wrong, but somehow my code got 4 points.. :3 
 */
 #include "bits/stdc++.h"
 using namespace std;
