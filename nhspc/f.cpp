@@ -1,3 +1,7 @@
+/*
+ * @Author : Debdip Das Dipto
+ * This is an inefficient code which gets only 50 points.. :( 
+*/
 #include "bits/stdc++.h"
 using namespace std;
 #define ll long long int
